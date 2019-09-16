@@ -1,3 +1,4 @@
 language: python
-sudo: required
-script: py.First_python_File
+python:
+    - '3.7.4'
+script:First_python_File.py
