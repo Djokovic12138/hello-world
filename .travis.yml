@@ -1,4 +1,4 @@
 language: python
 sudo: required
 before_install: sudo pip install foo
-script: py.
+script: py.First_python_file
